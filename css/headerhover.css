@@ -1,0 +1,17 @@
+.navi {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.navi a:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.firstbtn:hover {
+  background-color: #263238;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.firstbtn:hover p {
+  color: #fff;
+}

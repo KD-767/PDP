@@ -1,0 +1,330 @@
+.secondchapter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin-top: 242px;
+}
+
+.about-us {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 80px;
+}
+
+.longtxt {
+  margin-top: 35px;
+  color: #8F95A5;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.numberbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-top: 30px;
+}
+
+.box1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: center;
+  color: #2A3246;
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 80px;
+}
+
+.box2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: center;
+  color: #2A3246;
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 80px;
+}
+
+.box3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: center;
+  color: #2A3246;
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 80px;
+}
+
+.minitxtbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  color: #8F95A5;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.thirdchapter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 229px;
+}
+
+.pricing {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 80px;
+}
+
+.pricecards {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 35px;
+  margin-top: 107px;
+}
+
+.prctext1 {
+  margin-top: 19px;
+  color: #8F95A5;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.prc-minit1 {
+  margin-top: 40px;
+  color: #263238;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px;
+}
+
+.prcbtn1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 32px;
+  gap: 10px;
+  width: 240px;
+  height: 45px;
+  border-radius: 5px;
+  background: #EEE;
+  color: #263238;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.prcbtn1 p:last-child {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #546269;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.prc2 {
+  margin-left: 8px;
+}
+
+.prc-minit2 {
+  margin-top: 66px;
+  color: #263238;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px;
+}
+
+.prctext2 {
+  margin-top: 23px;
+  color: #8F95A5;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.prcbtn2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 60px;
+  gap: 10px;
+  width: 240px;
+  height: 45px;
+  border-radius: 5px;
+  background: #EEE;
+  color: #263238;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.prcbtn2 p:last-child {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #546269;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.prc-minit3 {
+  margin-top: 10px;
+  color: #263238;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px;
+}
+
+.prctext3 {
+  margin-top: 20px;
+  color: #8F95A5;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.prcbtn3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 63px;
+  gap: 10px;
+  width: 240px;
+  height: 45px;
+  border-radius: 5px;
+  background: #EEE;
+  color: #263238;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.prcbtn3 p:last-child {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #546269;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

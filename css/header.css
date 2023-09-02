@@ -1,0 +1,70 @@
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-top: 20px;
+}
+
+.britlex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 36px;
+  font-weight: 400;
+  background: -webkit-linear-gradient(left, #000 53%, #939393 47%);
+  -webkit-background-clip: text;
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Poppins", sans-serif;
+}
+
+.navi {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.navi a {
+  color: #263238;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 18px;
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.firstbtn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 220px;
+  height: 70px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  border: 2px solid #263238;
+  border-radius: 5px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+}
+.firstbtn p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

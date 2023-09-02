@@ -1,0 +1,49 @@
+.secondbtn:hover {
+  background-color: #fff;
+  border: solid 2px #263238;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.secondbtn:hover p {
+  color: #263238;
+}
+
+.cardbtn1:hover {
+  background-color: #fff;
+  border: 2px solid #263238;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.cardbtn1:hover p {
+  color: #263238;
+}
+
+.cardbtn2:hover {
+  background-color: #fff;
+  border: 2px solid #263238;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.cardbtn2:hover p {
+  color: #263238;
+}
+
+.cardbtn3:hover {
+  background-color: #fff;
+  border: 2px solid #263238;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.cardbtn3:hover p {
+  color: #263238;
+}
+
+.cardbtn4:hover {
+  background-color: #fff;
+  border: 2px solid #263238;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.cardbtn4:hover p {
+  color: #263238;
+}
